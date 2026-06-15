@@ -6,10 +6,10 @@ backend/node_modules/
 frontend/.env
 backend/.env
 
-.env
-dist/
-build/
-.vscode/
+# .env
+# dist/
+# build/
+# .vscode/
 
 # Logs
 logs
